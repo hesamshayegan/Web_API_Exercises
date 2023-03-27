@@ -1,0 +1,21 @@
+Part One:
+
+- Hypertext Transfer Protocol governs how users get data from and send to a server.
+- Uniform Resource Locator is the an address for some internet resource
+- Domain Name System converts url to ip address.
+- Query string allows users to pass key-value into url, in the format of ?key1=value1&key2=value2...
+- Get in oder to get data without chaging data on the server. Post sends data to the server.
+- HTTP request is a request from client to the server through http
+- HTTP response is a resonse from server to client through http (CSS, JS,...)
+- HTTP headers provide additional information about the request or the response.
+examples for requests: accept, accept-language.
+exaples for reposne: Last-modified, Content-type.
+- The browser converts URL to IP. The browser makes a request to that IP address. The server sends a response.
+The browser makes a DOM from HTML, and finds any other resources needed. The browser seperate
+HTTP requests for those resources and recieves response from the server for each.
+
+
+
+
+
+

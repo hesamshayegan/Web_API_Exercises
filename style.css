@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap    
+}
+
+img {
+    width: 20vw;
+    height: 300px;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px ;
+}
+
+
+.input-gif {
+    margin: 5px ;
+    
+}
+
+.sumbit-btn{ 
+    margin: 5px ; 
+   
+}
+
+.remove-btn {
+    margin: 5px ;
+    
+}
+
